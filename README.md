@@ -1,6 +1,7 @@
 # Lord Runner sfml
 **Authors:** Daniecl cohen & David mamman
 # Screenshot Game
+      <img src="./examples/game.png" alt="game!" width="343"/>
 <table align="center">
   <tr>
     <td>
@@ -16,9 +17,6 @@
     </td>
 	<td>
       <img src="./examples/topScreen.png" alt="top score" width="343"/>
-    </td>
-	<td>
-      <img src="./examples/game.png" alt="game!" width="343"/>
     </td>
   </tr>
 </table>
