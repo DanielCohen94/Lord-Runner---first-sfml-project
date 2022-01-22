@@ -2,8 +2,7 @@
 **Authors:** Daniecl cohen & David mamman
 # Screenshot Game
 <table align="center">
-      <img src="./examples/game.png" alt="game!" width="343"/>
-
+      <img  align="center"src="./examples/game.gif" alt="game!" width="686" height="514"/>
   <tr>
     <td>
       <img src="./examples/menuScreen.png" alt="menu" width="343"/>
@@ -21,4 +20,3 @@
     </td>
   </tr>
 </table>
-      <img  align="center"src="./examples/game.gif" alt="game!" width="686" height="514"/>
