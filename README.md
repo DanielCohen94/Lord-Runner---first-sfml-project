@@ -1,1 +1,3 @@
-# Lord-Runner---first-sfml-project
+# Lord Runner sfml
+**Authors:** Daniecl cohen & David mamman
+# Screenshot Game

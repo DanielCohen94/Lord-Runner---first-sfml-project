@@ -1,0 +1,7 @@
+configure_file ("arial.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("FlappyFont.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Marker Felt.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Fluo Gums.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Heroes Legend.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("MilkyNice.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("font_game.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
