@@ -10,11 +10,6 @@
       <img src="./examples/pauseScreen.png" alt="pause" width="343"/>
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="./examples/game.gif" alt="game!" width="686" height="514"/>
-    </td>
-  </tr>
     <tr>
     <td>
       <img src="./examples/startScreen.png" alt="welcome" width="343"/>
@@ -27,3 +22,4 @@
     </td>
   </tr>
 </table>
+      <img src="./examples/game.gif" alt="game!" width="686" height="514"/>
