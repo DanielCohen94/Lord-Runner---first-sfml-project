@@ -1,8 +1,8 @@
 # Lord Runner sfml
 **Authors:** Daniecl cohen & David mamman
 # Screenshot Game
+<img  align="center"src="./examples/game.gif" alt="game!" width="686" height="514"/>
 <table align="center">
-      <img  align="center"src="./examples/game.gif" alt="game!" width="686" height="514"/>
   <tr>
     <td>
       <img src="./examples/menuScreen.png" alt="menu" width="343"/>
