@@ -12,10 +12,18 @@
   </tr>
   <tr>
     <td>
+      <img src="./examples/game.gif" alt="game!" width="686" height="514"/>
+    </td>
+  </tr>
+    <tr>
+    <td>
       <img src="./examples/startScreen.png" alt="welcome" width="343"/>
     </td>
-    <td>
-      <img src="./examples/game.gif" alt="game!" width="343" height="257"/>
+	<td>
+      <img src="./examples/topScreen.png" alt="top score" width="343"/>
+    </td>
+	<td>
+      <img src="./examples/game.png" alt="game!" width="343"/>
     </td>
   </tr>
 </table>
