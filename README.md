@@ -18,5 +18,6 @@
       <img src="./examples/topScreen.png" alt="top score" width="343"/>
     </td>
   </tr>
-      <img  align="center"src="./examples/game.gif" alt="game!" width="686" height="514"/>
 </table>
+      <img  align="center"src="./examples/game.gif" alt="game!" width="686" height="514"/>
+
